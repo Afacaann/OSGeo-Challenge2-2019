@@ -5,23 +5,24 @@ Tutorial's URL: https://wiki.osgeo.org/wiki/Training_Material_for_2019_UN_Open_G
 
 Some of the following diligent students of cohort 2019-20 studying at the Dept. of Geomatics Engineering, Hacettepe University completed this tutorial successfully. Here comes their project URLs. 
 
-| Name & Surname        | Project's URL                            |
-|-----------------------|------------------------------------------|
-|  AHMET FIRAT KARAOĞLU | https://afk111.herokuapp.com/            |
-|  ASLI ZEHRA ÇOŞKUN    | https://aslizehra.herokuapp.com/         |
-|  ATAHAN ÇELEBİ        | https://afour.herokuapp.com/             |
-|  AYTAÇ ESKİCİ         | https://hacettepegeomatik.herokuapp.com/ |
-|  BERK KIVILCIM        | https://berk-unique.herokuapp.com/       |
-|  BERKAY İBİŞ          | https://berkaybmilletler.herokuapp.com/  |
-|  BURAK BERA DENİZ     | https://osgeo.herokuapp.com/             |
-|  GİZEM CAN            | https://treeknowledge.herokuapp.com/     |
-|  GÜLSÜM POSTALLI      | https://ungeospatialdata.herokuapp.com/  |
-|  HATİCE KELEŞ         | https://gmt352pg.herokuapp.com/          |
-|  MERVE HİLAL ARSLAN   | https://osgeotutorial1.herokuapp.com/    |
-|  METEHAN ERGEN        | https://dimmi-fratello.herokuapp.com/    |
-|  MOHAMMAD ALMASRI     | https://qfield-database.herokuapp.com/   |
-|  MUSA İLKER KARAOĞLU  | https://musageo.herokuapp.com/           |
-|  SEVAY YILMAZ         | https://sevay.herokuapp.com/             |
-|  SILA ŞADİYE YENİCE   | https://silaa.herokuapp.com/             |
-|  YAZGI NUR SAYIN      | https://tree-app-hu.herokuapp.com/       |
+| Name & Surname        | Project's URL                              |
+|-----------------------|--------------------------------------------|
+|  AHMET FIRAT KARAOĞLU | https://afk111.herokuapp.com/              |
+|  ASLI ZEHRA ÇOŞKUN    | https://aslizehra.herokuapp.com/           |
+|  ATAHAN ÇELEBİ        | https://afour.herokuapp.com/               |
+|  AYTAÇ ESKİCİ         | https://hacettepegeomatik.herokuapp.com/   |
+|  BERK KIVILCIM        | https://berk-unique.herokuapp.com/         |
+|  BERKAY İBİŞ          | https://berkaybmilletler.herokuapp.com/    |
+|  BURAK BERA DENİZ     | https://osgeo.herokuapp.com/               |
+|  FATİH AFACAN         | https://afacanassigmentunapp.herokuapp.com/|
+|  GİZEM CAN            | https://treeknowledge.herokuapp.com/       |
+|  GÜLSÜM POSTALLI      | https://ungeospatialdata.herokuapp.com/    |
+|  HATİCE KELEŞ         | https://gmt352pg.herokuapp.com/            |
+|  MERVE HİLAL ARSLAN   | https://osgeotutorial1.herokuapp.com/      |
+|  METEHAN ERGEN        | https://dimmi-fratello.herokuapp.com/      |
+|  MOHAMMAD ALMASRI     | https://qfield-database.herokuapp.com/     |
+|  MUSA İLKER KARAOĞLU  | https://musageo.herokuapp.com/             |
+|  SEVAY YILMAZ         | https://sevay.herokuapp.com/               |
+|  SILA ŞADİYE YENİCE   | https://silaa.herokuapp.com/               |
+|  YAZGI NUR SAYIN      | https://tree-app-hu.herokuapp.com/         |
 
